@@ -1,4 +1,4 @@
-# v 0.3
+# v 0.1
 # Dockerfile for p4-phylogenetics
 # Executable with an optional run file in the $(pwd) or will go interactive if
 # not specified
